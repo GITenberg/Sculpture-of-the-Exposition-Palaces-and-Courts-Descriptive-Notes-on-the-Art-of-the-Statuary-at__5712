@@ -1,0 +1,24 @@
+_repo: Sculpture-of-the-Exposition-Palaces-and-Courts-Descriptive-Notes-on-the-Art-of-the-Statuary-at__5712
+creator:
+  author:
+    agent_name: James, Juliet Helena Lumbard
+    birthdate: 1864
+    gutenberg_agent_id: '1816'
+    url: http://www.gutenberg.org/2009/agents/1816
+description: ''
+gutenberg_bookshelf: Art
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5712'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Panama-Pacific International Exposition (1915 : San Francisco, Calif.)'
+- !lcc 'NB'
+- !lcsh 'Sculpture'
+title: "Sculpture of the Exposition Palaces and Courts\r\nDescriptive Notes on the\
+  \ Art of the Statuary at the Panama-Pacific International Exposition, San Francisco"
+url: http://www.gutenberg.org/ebooks/5712
