@@ -1,5 +1,8 @@
 _repo: Sculpture-of-the-Exposition-Palaces-and-Courts-Descriptive-Notes-on-the-Art-of-the-Statuary-at__5712
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: James, Juliet Helena Lumbard
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '1816'
     url: http://www.gutenberg.org/2009/agents/1816
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5712#Sculpture-of-the-Exposition-Palaces-and-Courts-Descriptive-Notes-on-the-Art-of-the-Statuary-at_
 gutenberg_bookshelf: Art
 gutenberg_issued: '2004-05-01'
 gutenberg_type: Text
